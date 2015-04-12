@@ -1,0 +1,6 @@
+/* Description:
+
+  In this galileo, the connection between PIC32 and Galileo will be established. The simple acknowledgement will created using
+  5 data line, instead of 4.
+*/
+
